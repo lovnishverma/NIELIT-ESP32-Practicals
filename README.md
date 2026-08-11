@@ -37,9 +37,9 @@ This is the recommended installation method.
 
 3. Search for:
 
-   ```text
+```text
    NIELIT ESP32 Practicals
-````
+```
 
 4. Click **Install**.
 
