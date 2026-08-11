@@ -434,5 +434,5 @@ This project is distributed under the license included in the repository.
 See:
 
 ```text
-LICENSE
+MIT LICENSE
 ```
