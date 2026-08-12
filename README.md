@@ -6,6 +6,10 @@ The library provides classroom-ready ESP32 practical programs covering embedded 
 
 ---
 
+<img width="718" height="578" alt="Screenshot" src="https://github.com/user-attachments/assets/6559659d-4243-4ca1-8a12-486dbb635584" />
+
+
+
 ## Features
 
 - 15 complete ESP32 practical programs
