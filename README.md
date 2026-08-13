@@ -442,9 +442,9 @@ It is designed to support practical learning in:
 
 ---
 
-# Author
+# Authors
 
-**Lovnish Verma**
+**Dr. Sarwan Singh**, **Lovnish Verma**
 
 NIELIT / Embedded Systems & AI/IoT Training
 
