@@ -97,6 +97,26 @@ After installation:
 | **2.14**  | Face Detection                   |
 | **2.15**  | QR Attendance + Firebase         |
 
+
+| Practical | Simulation Link(s) |
+|---|---|
+| 2.1 Local Hardware I/O Integration — LED Array Control | https://wokwi.com/projects/466868959177654273<br>https://wokwi.com/projects/466892874137419777 |
+| 2.2 Interrupt-Driven Hardware Inputs & Software Debouncing | https://wokwi.com/projects/470337342911561729<br>https://wokwi.com/projects/466919377125265409<br>https://wokwi.com/projects/466875285561787393 |
+| 2.3 Bus Topologies — Interfacing an I2C LCD | https://wokwi.com/projects/466875970889181185<br>https://wokwi.com/projects/466919917516327937 |
+| 2.4 Environmental Telemetry — Interfacing Digital DHT Sensors | https://wokwi.com/projects/471053320556576769<br>https://wokwi.com/projects/466920367250622465<br>https://wokwi.com/projects/466895389976744961 |
+| 2.5 Intermediate Capstone — Independent Localized Weather Station | https://wokwi.com/projects/470350455832728577<br>https://wokwi.com/projects/466921948977586177<br>https://wokwi.com/projects/466922878062177281 |
+| 2.6 Network Layer Operations — Access Point Authentication & IP Allocation | https://wokwi.com/projects/466955423742893057 |
+| 2.7 Local Host Operations — Designing an Interactive Web Server | https://wokwi.com/projects/466957884087597057 |
+| 2.8 REST API Client Architecture — Serialization and Parsing of JSON Payloads | https://wokwi.com/projects/466959130363466753 |
+| 2.9 Machine-to-Machine (M2M) Telemetry — Implementing the MQTT Protocol | https://wokwi.com/projects/466973992521757697 |
+| 2.10 Macro System Capstone — Enterprise Industrial Automation Node | https://wokwi.com/projects/467049761386592257 |
+| 2.11 Cloud Persistence Architectures — Integrating Google Firebase Databases | https://wokwi.com/projects/470181664079028225 |
+| 2.12 Embedded Machine Learning — Inline Iris Data Flower Classification | https://wokwi.com/projects/470184390324461569 |
+| 2.13 Visual Data Acquisitions — Interfacing the ESP32 Camera Subsystem | *(no simulation link — requires physical ESP32-CAM)* |
+| 2.14 Edge Computer Vision — Localized Human Facial Detection | *(no simulation link — requires physical ESP32-CAM)* |
+| 2.15 Category Capstone — Automated Smart Attendance & Asset Management Hub | *(no simulation link — requires physical hardware)* |
+
+
 ---
 
 # Recommended Student Workflow
