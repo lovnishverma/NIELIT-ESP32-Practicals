@@ -299,26 +299,25 @@ NIELIT_ESP32_Practicals/
 │   └── NIELIT_ESP32_Practicals.cpp
 │
 ├── examples/
-│   ├── Practical_2_1/
-│   ├── Practical_2_2/
-│   ├── Practical_2_3/
-│   ├── Practical_2_4/
-│   ├── Practical_2_5/
-│   ├── Practical_2_6/
-│   ├── Practical_2_7/
-│   ├── Practical_2_8/
-│   ├── Practical_2_9/
-│   ├── Practical_2_10/
-│   ├── Practical_2_11/
-│   ├── Practical_2_12/
-│   ├── Practical_2_13/
-│   ├── Practical_2_14/
-│   └── Practical_2_15/
+│   ├── 2_1_Hardware_Inputs_Outputs/
+│   ├── 2_2_Push_Button_and_LED/
+│   ├── 2_3_I2C_LCD/
+│   ├── 2_4_DHT_Sensor/
+│   ├── 2_5_Timer_Weather_Station/
+│   ├── 2_6_Wi_Fi_Connectivity/
+│   ├── 2_7_ESP32_Web_Server/
+│   ├── 2_8_HTTP_JSON/
+│   ├── 2_9_MQTT/
+│   ├── 2_10_Industrial_MQTT_Telemetry/
+│   ├── 2_11_Firebase_Cloud_Telemetry/
+│   ├── 2_12_Embedded_Machine_Learning_Iris/
+│   ├── 2_13_ESP32_CAM_Web_Server/
+│   ├── 2_14_Face_Detection/
+│   └── 2_15_QR_Attendance_Firebase/
 │
 └── extras/
-    ├── Practical_2_13_Camera/
-    ├── Practical_2_14_Face_Detection/
-    └── Practical_2_15_Dependencies/
+    ├── 2_14_Face_Detection/
+    └── 2_15_Dependencies/
 ```
 
 ---
@@ -419,7 +418,7 @@ Follow the upload procedure specified for the particular ESP32-CAM board.
 Current release:
 
 ```text
-v1.0.0
+v1.0.3
 ```
 
 ---

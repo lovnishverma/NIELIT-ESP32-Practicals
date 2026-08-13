@@ -3,6 +3,6 @@ NIELIT ESP32 Practicals Library - Quick Install
 1. Arduino IDE -> Sketch -> Include Library -> Add .ZIP Library...
 2. Select the NIELIT_ESP32_Practicals_Library ZIP.
 3. Arduino IDE -> File -> Examples -> NIELIT ESP32 Practicals.
-4. Select Practical_2_1 ... Practical_2_15.
+4. Select 2_1_Hardware_Inputs_Outputs ... 2_15_QR_Attendance_Firebase.
 
 Install required third-party dependencies as described in README.md.
