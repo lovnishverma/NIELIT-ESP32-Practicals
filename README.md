@@ -4,6 +4,10 @@ A structured Arduino library containing the complete **NIELIT ESP32 Practical Se
 
 The library provides classroom-ready ESP32 practical programs covering embedded systems, sensors, networking, IoT, MQTT, cloud integration, TinyML, ESP32-CAM, computer vision, and smart attendance systems.
 
+
+<img width="940" height="788" alt="NIELIT ESP32 Practicals" src="https://github.com/user-attachments/assets/9ebb6c80-e96b-47f5-934b-e2df223783e4" />
+
+
 ---
 
 <img width="718" height="578" alt="Screenshot" src="https://github.com/user-attachments/assets/6559659d-4243-4ca1-8a12-486dbb635584" />
